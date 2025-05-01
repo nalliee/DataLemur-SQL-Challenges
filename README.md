@@ -8,12 +8,13 @@
 <p align = "center">
   <a href = "#overview"> Overview </a> •
   <a href = "#contents"> Contents </a> •
-  <a href = "#license"> License </a> •
+  <a href = "#support"> Support </a> •
+  <a href = "#license"> License </a> 
 </p>
 
 ## Overview
 
-This repository contains solution for the SQL challenges posted on [DataLemur][https://datalemur.com] website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
+This repository contains solution for the SQL challenges posted on [DataLemur][website_link] website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
 
 The repository directory structure is as follows:
 
@@ -37,7 +38,7 @@ The solutions are provided in the following formats:
 In the below table, the columns indicate the following attributes related to the weekly challenge:
 
 - **No :** number of column for individual challenge
-- **Challenge :** Link to the SQL challenge hosted on [DataLemur][https://datalemur.com]
+- **Challenge :** Link to the SQL challenge hosted on [DataLemur][website_link]
 - **Solution Scripts :** Link to the solution SQL script hosted in this repository
 
 #### Difficulty Level : Easy
@@ -102,4 +103,78 @@ In the below table, the columns indicate the following attributes related to the
 | 17 | [Booking Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution]()
 | 18 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | [Solution]()
 | 19 | [2nd Ride Delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution]()
-| 20 | [
+| 20 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution]()
+| 21 | [Google Maps Flagged UGC](https://datalemur.com/questions/off-topic-maps-ugc) | [Solution]()
+| 22 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution]()
+| 23 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution]()
+| 24 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution]()
+| 25 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution]()
+| 26 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution]()
+| 27 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution]()
+| 28 | [User Session Activity](https://datalemur.com/questions/user-session-activity) | [Solution]()
+| 29 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution]()
+| 30 | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation) | [Solution]()
+| 31 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution]()
+| 32 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution]()
+| 33 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution]()
+| 34 |  [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2) | [Solution]()
+| 35 | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution]()
+| 36 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution]()
+| 37 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution]()
+| 38 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution]()
+| 39 | [FAANG Stock Monthly Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-monthly-change) | [Solution]()
+
+#### Difficulty Level : Hard
+
+| No | Challenge | Solution Script |
+|:--------:|------------|:---------|
+| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution]()
+| 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution]()
+| 03 | [Maximize Prime Item Inventory](https://datalemur.com/questions/prime-warehouse-storage) | [Solution]()
+| 04 | [Medium Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution]()
+| 05 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution]()
+| 06 | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution]()
+| 07 | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution]()
+| 08 | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost) | [Solution]()
+| 09 | [Department vs. Company Salary](https://datalemur.com/questions/sql-department-company-salary-comparison) | [Solution]()
+| 10 | [Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution]()
+| 11 | [Average Vacant Days](https://datalemur.com/questions/average-vacant-days) | [Solution]()
+| 12 | [Patient Support Analysis (Part 3)](https://datalemur.com/questions/patient-call-history) | [Solution]()
+| 13 | [Patient Support Analysis (Part 4)](https://datalemur.com/questions/long-calls-growth) | [Solution]()
+| 14 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | [Solution]()
+| 15 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | [Solution]()
+| 16 | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution]()
+| 17 | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks) | [Solution]()
+| 18 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution]()
+| 19 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution]()
+| 20 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution]()
+| 21 | [Page Recommendation](https://datalemur.com/questions/page-recommendation) | [Solution]()
+| 22 | [Reactivated Users](https://datalemur.com/questions/reactivated-users) | [Solution]()
+| 23 | [Senior Managers](https://datalemur.com/questions/senior-managers-reportees) | [Solution]()
+| 24 | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec) | [Solution]()
+| 25 | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | [Solution]()
+| 26 | [Weekly Churn Rates](https://datalemur.com/questions/first-month-retention) | [Solution]()
+| 27 | [Uniquely Staffed Consultants](https://datalemur.com/questions/uniquely-staffed-consultants) | [Solution]()
+| 28 | [Server Utilization Time](https://datalemur.com/questions/total-utilization-time) | [Solution]()
+
+## Support
+
+If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) Natasha Lie][linkedin]
+
+## License
+
+<a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/' target = "_blank">
+  <img src = "https://i.ibb.co/mvmWGkm/by-nc-sa.png" alt="by-nc-sa" border="0" width="88" height="31">
+</a>
+
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+
+<!-- External Links -->
+
+[website_link]: https://datalemur.com
+
+<!-- Profile Links -->
+
+[linkedin]: https://www.linkedin.com/in/natasha-lie-672491180
