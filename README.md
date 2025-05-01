@@ -84,7 +84,7 @@ In the below table, the columns indicate the following attributes related to the
 
 | No | Challenge | Solution Script |
 |:--------:|------------|:---------|
-| 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_Script/Medium/01_Uber_User's Third Transaction.sql)
+| 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_Script/Medium/01_Uber_User's_Third_Transaction.sql)
 | 02 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](01_Script/Medium/02_FAANG_Second Highest Salary.sql)
 | 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](01_Script/Medium/03_Snapchat_Sending vs. Opening Snaps.sql)
 | 04 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_Script/Medium/04_Twitter_Tweets' Rolling Averages.sql)
@@ -106,7 +106,7 @@ In the below table, the columns indicate the following attributes related to the
 | 20 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](01_Script/Medium/20_Walmart_Histogram of Users and Purchases.sql)
 | 21 | [Google Maps Flagged UGC](https://datalemur.com/questions/off-topic-maps-ugc) | [Solution](01_Script/Medium/21_Google_Maps Flagged UGC.sql)
 | 22 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](01_Script/Medium/22_Alibaba_Compressed Mode.sql)
-| 23 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](01_Script/Medium/23_JPMorgan_Card Launch Success.sql)
+| 23 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](01_Script/Medium/23_JPMorgan_Card_Launch_Success.sql)
 | 24 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution]()
 | 25 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution]()
 | 26 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution]()
