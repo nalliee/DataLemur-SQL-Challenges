@@ -92,7 +92,7 @@ In the below table, the columns indicate the following attributes related to the
 | 06 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](01_Script/Medium/06_FAANG_Top_Three_Salaries.sql)
 | 07 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](01_Script/Medium/07_TikTok_Signup_Activation_Rate.sql)
 | 08 | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](01_Script/Medium/08_Accenture_Fill_Missing_Client_Data.sql)
-| 09 | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history) | [Solution](01_Script/Medium/09_Spotify_Spotify_Streaming_History.sql)
+| 09 | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history) | [Solution](01_Script/Medium/09_Spotify_Streaming_History.sql)
 | 10 | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode) | [Solution](01_Script/Medium/10_Microsoft_Mean_Median_Mode.sql)
 | 11 | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | [Solution](01_Script/Medium/11_CVS_Pharmacy_Analytics_(Part_4).sql)
 | 12 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_Script/Medium/12_Walmart_Frequently_Purchased_Pairs.sql)
