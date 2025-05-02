@@ -107,7 +107,7 @@ In the below table, the columns indicate the following attributes related to the
 | 21 | [Google Maps Flagged UGC](https://datalemur.com/questions/off-topic-maps-ugc) | [Solution](01_Script/Medium/21_Google_Maps_Flagged_UGC.sql)
 | 22 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](01_Script/Medium/22_Alibaba_Compressed_Mode.sql)
 | 23 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](01_Script/Medium/23_JPMorgan_Card_Launch_Success.sql)
-| 24 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution]()
+| 24 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](01_Script/Medium/24_Verizon_International_Call_Percentage.sql)
 | 25 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution]()
 | 26 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution]()
 | 27 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution]()
