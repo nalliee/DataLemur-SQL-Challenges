@@ -24,7 +24,7 @@ SELECT
     WHEN item_type = 'prime_eligible' 
       THEN (FLOOR(500000/total_sqft) * item_count)
     WHEN item_type = 'not_prime' 
-      THEN FLOOR((500000 - (SELECT FLOOR(500000/total_sqft) * total_sqft FROM prime_occupied_area)) / total_sqft) * item_count
+      THEN FLOOR((500000 - (SELECT prime_item_batch_count * total_sqft FROM prime_occupied_area)) / total_sqft) * item_count
   END AS item_count
 FROM summary
 ORDER BY item_type DESC;
