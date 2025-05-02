@@ -129,7 +129,7 @@ In the below table, the columns indicate the following attributes related to the
 | No | Challenge | Solution Script |
 |:--------:|------------|:---------|
 | 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution](01_Script/Hard/01_Facebook_Active_User_Retention.sql)
-| 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution]()
+| 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](01_Script/Hard/02_Wayfair_Y-on-Y_Growth_Rate.sql)
 | 03 | [Maximize Prime Item Inventory](https://datalemur.com/questions/prime-warehouse-storage) | [Solution]()
 | 04 | [Medium Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution]()
 | 05 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution]()
