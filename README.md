@@ -134,7 +134,7 @@ In the below table, the columns indicate the following attributes related to the
 | 04 | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution](01_Script/Hard/04_Google_Median_Search_Frequency.sql)
 | 05 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution](01_Script/Hard/05_Facebook_Advertiser_Status.sql)
 | 06 | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution](01_Script/Hard/06_Intuit_Consecutive_Filing_Years.sql)
-| 07 | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution]()
+| 07 | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](01_Script/Hard/07_Snowflake_Marketing_Touch_Streak.sql)
 | 08 | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost) | [Solution]()
 | 09 | [Department vs. Company Salary](https://datalemur.com/questions/sql-department-company-salary-comparison) | [Solution]()
 | 10 | [Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution]()
