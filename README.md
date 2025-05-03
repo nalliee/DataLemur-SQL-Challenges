@@ -132,7 +132,7 @@ In the below table, the columns indicate the following attributes related to the
 | 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](01_Script/Hard/02_Wayfair_Y-on-Y_Growth_Rate.sql)
 | 03 | [Maximize Prime Item Inventory](https://datalemur.com/questions/prime-warehouse-storage) | [Solution](01_Script/Hard/03_Amazon_Maximize_Prime_Item_Inventory.sql)
 | 04 | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution](01_Script/Hard/04_Google_Median_Search_Frequency.sql)
-| 05 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution]()
+| 05 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution](01_Script/Hard/05_Facebook_Advertiser_Status.sql)
 | 06 | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution]()
 | 07 | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution]()
 | 08 | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost) | [Solution]()
