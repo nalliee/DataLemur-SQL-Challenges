@@ -55,7 +55,7 @@ In the below table, the columns indicate the following attributes related to the
 | 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](01_Script/Easy/08_LinkedIn_Duplicate_Job_Listings.sql)
 | 09 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](01_Script/Easy/09_Robinhood_Cities_With_Completed_Trades.sql)
 | 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](01_Script/Easy/10_Amazon_Average_Review_Ratings.sql)
-| 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution]()
+| 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](01_Script/Easy/11_FAANG_Well_Paid_Employees.sql)
 | 12 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution]()
 | 13 | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax) | [Solution]()
 | 14 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution]()
