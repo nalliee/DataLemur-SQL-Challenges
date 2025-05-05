@@ -139,7 +139,7 @@ In the below table, the columns indicate the following attributes related to the
 | 09 | [Department vs. Company Salary](https://datalemur.com/questions/sql-department-company-salary-comparison) | [Solution](01_Script/Hard/09_FAANG_Department_vs._Company_Salary.sql)
 | 10 | [Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](01_Script/Hard/10_Alibaba_Compressed_Median.sql)
 | 11 | [Average Vacant Days](https://datalemur.com/questions/average-vacant-days) | [Solution](01_Script/Hard/11_Airbnb_Average_Vacant_Days.sql)
-| 12 | [Patient Support Analysis (Part 3)](https://datalemur.com/questions/patient-call-history) | [Solution]()
+| 12 | [Patient Support Analysis (Part 3)](https://datalemur.com/questions/patient-call-history) | [Solution](01_Script/Hard/12_UnitedHealth_Patient_Support_Analysis.sql)
 | 13 | [Patient Support Analysis (Part 4)](https://datalemur.com/questions/long-calls-growth) | [Solution]()
 | 14 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | [Solution]()
 | 15 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | [Solution]()
