@@ -1,4 +1,4 @@
--- histogram of tweets --
+-- Twitter Histogram of Tweets --
 
 WITH total_tweets AS (
   SELECT 
