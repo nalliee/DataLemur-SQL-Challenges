@@ -51,7 +51,7 @@ In the below table, the columns indicate the following attributes related to the
 | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](01_Script/Easy/04_Tesla_Unfinished_Parts.sql)
 | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](01_Script/Easy/05_NY_Times_Laptop_vs._Mobile_Viewrship.sql)
 | 06 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](01_Script/Easy/06_Facebook_Average_Post_Hiatus_(Part_1).sql)
-| 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution]()
+| 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_Script/Easy/07_Microsoft_Teams_Power_Users.sql)
 | 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution]()
 | 09 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution]()
 | 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution]()
