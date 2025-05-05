@@ -49,7 +49,7 @@ In the below table, the columns indicate the following attributes related to the
 | 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](01_Script/Easy/02_LinkedIn_Data_Science_Skills.sql)
 | 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](01_Script/Easy/03_Facebook_Page_With_No_Likes.sql)
 | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](01_Script/Easy/04_Tesla_Unfinished_Parts.sql)
-| 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution]()
+| 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](01_Script/Easy/05_NY_Times_Laptop_vs._Mobile_Viewrship.sql)
 | 06 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution]()
 | 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution]()
 | 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution]()
