@@ -54,7 +54,7 @@ In the below table, the columns indicate the following attributes related to the
 | 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_Script/Easy/07_Microsoft_Teams_Power_Users.sql)
 | 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](01_Script/Easy/08_LinkedIn_Duplicate_Job_Listings.sql)
 | 09 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](01_Script/Easy/09_Robinhood_Cities_With_Completed_Trades.sql)
-| 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution]()
+| 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](01_Script/Easy/10_Amazon_Average_Review_Ratings.sql)
 | 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution]()
 | 12 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution]()
 | 13 | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax) | [Solution]()
