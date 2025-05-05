@@ -48,7 +48,7 @@ In the below table, the columns indicate the following attributes related to the
 | 01 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](01_Script/Easy/01_Twitter_Histogram_of_Tweets.sql)
 | 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](01_Script/Easy/02_LinkedIn_Data_Science_Skills.sql)
 | 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](01_Script/Easy/03_Facebook_Page_With_No_Likes.sql)
-| 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution]()
+| 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](01_Script/Easy/04_Tesla_Unfinished_Parts.sql)
 | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution]()
 | 06 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution]()
 | 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution]()
