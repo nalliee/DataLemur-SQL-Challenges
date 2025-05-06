@@ -58,7 +58,7 @@ In the below table, the columns indicate the following attributes related to the
 | 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](01_Script/Easy/11_FAANG_Well_Paid_Employees.sql)
 | 12 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](01_Script/Easy/12_PayPal_Final_Account_Balance.sql)
 | 13 | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax) | [Solution](01_Script/Easy/13_Intuit_QuickBooks_vs_TurboTax.sql)
-| 14 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](01_Script/Easy/14_Facebook_App_Click-trough_Rate(CTR).sql)
+| 14 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](01_Script/Easy/14_Facebook_App_Click-trough_Rate_(CTR).sql)
 | 15 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_Script/Easy/15_TikTok_Second_Day_Confirmation.sql)
 | 16 | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](01_Script/Easy/16_IBM_db2_Product_Analytics.sql)
 | 17 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](01_Script/Easy/17_JPMorgan_Cards_Issued_Difference.sql)
