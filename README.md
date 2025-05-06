@@ -67,7 +67,7 @@ In the below table, the columns indicate the following attributes related to the
 | 20 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](01_Script/Easy/20_CSV_Pharmacy_Analytics_(Part_2).sql)
 | 21 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](01_Script/Easy/21_CSV_Pharmacy_Analytics_(Part_3).sql)
 | 22 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](01_Script/Easy/22_UnitedHealth_Patient_Support_Analysis_(Part_1).sql)
-| 23 | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution]()
+| 23 | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](01_Script/Easy/23_Amazon_Most_Expensive_Purchase.sql)
 | 24 | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution]()
 | 25 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution]()
 | 26 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution]()
