@@ -62,7 +62,7 @@ In the below table, the columns indicate the following attributes related to the
 | 15 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_Script/Easy/15_TikTok_Second_Day_Confirmation.sql)
 | 16 | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](01_Script/Easy/16_IBM_db2_Product_Analytics.sql)
 | 17 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](01_Script/Easy/17_JPMorgan_Cards_Issued_Difference.sql)
-| 18 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution]()
+| 18 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](01_Script/Easy/18_Alibaba_Compressed_Mean.sql)
 | 19 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution]()
 | 20 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution]()
 | 21 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution]()
