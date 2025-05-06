@@ -64,7 +64,7 @@ In the below table, the columns indicate the following attributes related to the
 | 17 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](01_Script/Easy/17_JPMorgan_Cards_Issued_Difference.sql)
 | 18 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](01_Script/Easy/18_Alibaba_Compressed_Mean.sql)
 | 19 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](01_Script/Easy/19_CVS_Pharmacy_Analytics_(Part_1).sql)
-| 20 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution]()
+| 20 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](01_Script/Easy/20_CSV_Pharmacy_Analytics_(Part_2).sql)
 | 21 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution]()
 | 22 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution]()
 | 23 | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution]()
