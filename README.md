@@ -73,7 +73,7 @@ In the below table, the columns indicate the following attributes related to the
 | 26 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_Script/Easy/26_LinkedIn_Power_Creators.sql)
 | 27 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](01_Script/Easy/27_eBay_Highest_Number_of_Products.sql)
 | 28 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](01_Script/Easy/28_Microsoft_Spare_Server_Capacity.sql)
-| 29 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution]()
+| 29 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](01_Script/Easy/29_Yelp_Top_Rated_Businesses.sql)
 | 30 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution]()
 | 31 | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line) | [Solution]()
 | 32 | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution]()
