@@ -70,7 +70,7 @@ In the below table, the columns indicate the following attributes related to the
 | 23 | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](01_Script/Easy/23_Amazon_Most_Expensive_Purchase.sql)
 | 24 | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](01_Script/Easy/24_Visa_ApplePay_Volume.sql)
 | 25 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_Script/Easy/25_Accenture_Subject_Matter_Experts.sql)
-| 26 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution]()
+| 26 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_Script/Easy/26_LinkedIn_Power_Creators.sql)
 | 27 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution]()
 | 28 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution]()
 | 29 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution]()
