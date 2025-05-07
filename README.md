@@ -71,7 +71,7 @@ In the below table, the columns indicate the following attributes related to the
 | 24 | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](01_Script/Easy/24_Visa_ApplePay_Volume.sql)
 | 25 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_Script/Easy/25_Accenture_Subject_Matter_Experts.sql)
 | 26 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_Script/Easy/26_LinkedIn_Power_Creators.sql)
-| 27 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution]()
+| 27 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](01_Script/Easy/27_eBay_Highest_Number_of_Products.sql)
 | 28 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution]()
 | 29 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution]()
 | 30 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution]()
