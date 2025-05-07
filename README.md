@@ -77,7 +77,7 @@ In the below table, the columns indicate the following attributes related to the
 | 30 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_Script/Easy/30_Google_Ad_Campaign_ROAS.sql)
 | 31 | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line) | [Solution](01_Script/Easy/31_NVIDIA_Product_Line_Revenue.sql)
 | 32 | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](01_Script/Easy/32_Apple_Trade_In_Payouts.sql)
-| 33 | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity) | [Solution]()
+| 33 | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity) | [Solution](01_Script/Easy/33_Snowflake_Webinar_Popularity.sql)
 | 34 | [Who Made Quota?](https://datalemur.com/questions/oracle-sales-quota) | [Solution]()
 
 #### Difficulty Level : Medium
