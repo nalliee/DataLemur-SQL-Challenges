@@ -19,11 +19,15 @@ This repository contains solution for the SQL challenges posted on [DataLemur][w
 The repository directory structure is as follows:
 
 DataLemur-SQL-Challenges <br>
-01_Script<br>
+Easy <br>
+Medium <br>
+Hard <br>
 
 The type of content present in the directories is as follows:
 
-**01_Script**
+**Easy**
+**Medium**
+**Hard**
 
 This directory contains the solution pgSQL scripts for the challenges mentioned in the **Solution Scripts** table.
 
