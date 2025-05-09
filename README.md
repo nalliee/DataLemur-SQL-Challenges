@@ -108,7 +108,7 @@ In the below table, the columns indicate the following attributes related to the
 | 25 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](01_Script/Medium/25_UnitedHealth_Patient_Support_Analysis_(Part_2).sql)
 | 26 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_Script/Medium/26_LinkedIn_Power_Creators_(Part_2).sql)
 | 27 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_Script/Medium/27_PayPal_Unique_Money_Transfer_Relationships.sql)
-| 28 | [User Session Activity](https://datalemur.com/questions/user-session-activity) | [Solution]()
+| 28 | [User Session Activity](https://datalemur.com/questions/user-session-activity) | [Solution](Medium/28_Twitter_User_Session_Activity.sql)
 | 29 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution]()
 | 30 | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation) | [Solution]()
 | 31 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution]()
