@@ -18,9 +18,9 @@ This repository contains solution for the SQL challenges posted on [DataLemur][w
 
 The type of content present in the directories is as follows:
 
-**Easy** <br>
-**Medium** <br>
-**Hard** <br>
+- **Easy** <br>
+- **Medium** <br>
+- **Hard** <br>
 
 This directory contains the solution pgSQL scripts for the challenges mentioned in the **Solution Scripts** table.
 
