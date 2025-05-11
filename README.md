@@ -111,7 +111,7 @@ In the below table, the columns indicate the following attributes related to the
 | 28 | [User Session Activity](https://datalemur.com/questions/user-session-activity) | [Solution](Medium/28_Twitter_User_Session_Activity.sql)
 | 29 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](Medium/29_Etsy_First_Transaction.sql)
 | 30 | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation) | [Solution](Medium/30_Facebook_Email_Table_Transformation.sql)
-| 31 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution]()
+| 31 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution](Medium/31_Adobe_Photoshop_Revenue_Analysis.sql)
 | 32 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution]()
 | 33 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution]()
 | 34 |  [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2) | [Solution]()
