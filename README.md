@@ -113,7 +113,7 @@ In the below table, the columns indicate the following attributes related to the
 | 30 | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation) | [Solution](Medium/30_Facebook_Email_Table_Transformation.sql)
 | 31 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution](Medium/31_Adobe_Photoshop_Revenue_Analysis.sql)
 | 32 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution](Medium/32_Google_Consulting_Bench_Time.sql)
-| 33 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution]()
+| 33 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](Medium/33_Oracle_Sales_Team_Compensation.sql)
 | 34 |  [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2) | [Solution]()
 | 35 | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution]()
 | 36 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution]()
