@@ -119,7 +119,7 @@ In the below table, the columns indicate the following attributes related to the
 | 36 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](Medium/36_Google_Invalid_Search_Results.sql)
 | 37 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](Medium/37_Stitch_Fix-Repeat_Purchases_on_Multiple_Days.sql)
 | 38 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](Medium/38_Accenture-Compensation_Outliers.sql)
-| 39 | [FAANG Stock Monthly Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-monthly-change) | [Solution]()
+| 39 | [FAANG Stock Monthly Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-monthly-change) | [Solution](Medium/39_Bloomberg_FAANG_Stock_Monthly_Change_(Part_2).sql)
 
 #### Difficulty Level : Hard
 
