@@ -116,7 +116,7 @@ In the below table, the columns indicate the following attributes related to the
 | 33 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](Medium/33_Oracle_Sales_Team_Compensation.sql)
 | 34 | [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2) | [Solution](Medium/34_Salesforce_Average_Deal_Size_(Part_2).sql)
 | 35 | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution](Medium/35_Amazon_Cumulative_Purchases_by_Product_Type.sql)
-| 36 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution]()
+| 36 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](Medium/36_Google_Invalid_Search_Results.sql)
 | 37 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution]()
 | 38 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution]()
 | 39 | [FAANG Stock Monthly Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-monthly-change) | [Solution]()
