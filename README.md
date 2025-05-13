@@ -141,7 +141,7 @@ In the below table, the columns indicate the following attributes related to the
 | 14 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | [Solution](Hard/14_Etsy_Same_Week_Purchases.sql)
 | 15 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | [Solution](Hard/15_Apple_Follow-Up_Airpod_Percentage.sql)
 | 16 | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution](Hard/16_Stripe_Repeated_Payments.sql)
-| 17 | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks) | [Solution]()
+| 17 | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks) | [Solution](Hard/17_Bloomberg-FAANG_Underperforming_Stocks_(Part_3).sql)
 | 18 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution]()
 | 19 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution]()
 | 20 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution]()
