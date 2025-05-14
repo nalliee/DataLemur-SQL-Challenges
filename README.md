@@ -142,7 +142,7 @@ In the below table, the columns indicate the following attributes related to the
 | 15 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | [Solution](Hard/15_Apple_Follow-Up_Airpod_Percentage.sql)
 | 16 | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution](Hard/16_Stripe_Repeated_Payments.sql)
 | 17 | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks) | [Solution](Hard/17_Bloomberg-FAANG_Underperforming_Stocks_(Part_3).sql)
-| 18 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution]()
+| 18 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution](Hard/18_Pinterest-User_Concurrent_Sessions.sql)
 | 19 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution]()
 | 20 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution]()
 | 21 | [Page Recommendation](https://datalemur.com/questions/page-recommendation) | [Solution]()
