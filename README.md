@@ -145,7 +145,7 @@ In the below table, the columns indicate the following attributes related to the
 | 18 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution](Hard/18_Pinterest-User_Concurrent_Sessions.sql)
 | 19 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution]()
 | 20 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution]()
-| 21 | [Page Recommendation](https://datalemur.com/questions/page-recommendation) | [Solution]()
+| 21 | [Page Recommendation](https://datalemur.com/questions/page-recommendation) | [Solution](Hard/21_Facebook-Page_Recommendation.sql)
 | 22 | [Reactivated Users](https://datalemur.com/questions/reactivated-users) | [Solution]()
 | 23 | [Senior Managers](https://datalemur.com/questions/senior-managers-reportees) | [Solution]()
 | 24 | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec) | [Solution]()
