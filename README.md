@@ -152,7 +152,7 @@ In the below table, the columns indicate the following attributes related to the
 | 25 | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | [Solution](Hard/25_Airbnb-Matching_Rental_Amenities.sql)
 | 26 | [Weekly Churn Rates](https://datalemur.com/questions/first-month-retention) | [Solution](Hard/26_Facebook-Weekly_Churn_Rates.sql)
 | 27 | [Uniquely Staffed Consultants](https://datalemur.com/questions/uniquely-staffed-consultants) | [Solution](Hard/27_Accenture-Uniquely_Staffed_Consultants.sql)
-| 28 | [Server Utilization Time](https://datalemur.com/questions/total-utilization-time) | [Solution]()
+| 28 | [Server Utilization Time](https://datalemur.com/questions/total-utilization-time) | [Solution](Hard/28_Amazon-Server_Utilization_Time.sql)
 
 ## Support
 
