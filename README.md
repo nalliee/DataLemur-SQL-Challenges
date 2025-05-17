@@ -149,7 +149,7 @@ In the below table, the columns indicate the following attributes related to the
 | 22 | [Reactivated Users](https://datalemur.com/questions/reactivated-users) | [Solution](Hard/22_Facebook-Reactivated_Users.sql)
 | 23 | [Senior Managers](https://datalemur.com/questions/senior-managers-reportees) | [Solution](Hard/23_Google-Senior_Managers.sql)
 | 24 | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec) | [Solution](Hard/24_Facebook-Event_Friends_Recommendation.sql)
-| 25 | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | [Solution]()
+| 25 | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | [Solution](Hard/25_Airbnb-Matching_Rental_Amenities.sql)
 | 26 | [Weekly Churn Rates](https://datalemur.com/questions/first-month-retention) | [Solution]()
 | 27 | [Uniquely Staffed Consultants](https://datalemur.com/questions/uniquely-staffed-consultants) | [Solution]()
 | 28 | [Server Utilization Time](https://datalemur.com/questions/total-utilization-time) | [Solution]()
